@@ -1,0 +1,13 @@
+header a {
+    font-size: 30px;
+    color: teal;
+}
+p a {
+    font-size: 16px;
+    font-weight: normal;
+    color: rgb(0, 0, 255);
+}
+#dislikes a {
+    font-weight: bold;
+    color: red;
+}
