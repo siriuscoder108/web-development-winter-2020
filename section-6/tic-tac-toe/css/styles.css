@@ -1,0 +1,21 @@
+
+h1 {
+    text-align: center;
+}
+table, th, td {
+    border-collapse: collapse;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+td {
+    height: 100px;
+    width: 100px;
+}
+td:nth-of-type(1), td:nth-of-type(even) {
+    border-right: 2px solid black;
+}
+tr:nth-of-type(1) td, tr:nth-of-type(even) td {
+    border-bottom: 1px solid black;
+}
