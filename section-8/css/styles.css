@@ -1,0 +1,12 @@
+/* YOUR CODE GOES IN HERE */
+img {
+    border-radius: 50%;
+    border: 5px solid rgb(236, 183, 191);
+    width: 200px;
+}
+.card {
+    width: 210px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+}
